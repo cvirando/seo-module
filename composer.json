@@ -1,0 +1,24 @@
+{
+    "name": "cvirando/seo",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "CV. IRANDO",
+            "email": "info@irando.co.id"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Seo\\": ""
+        }
+    }
+}
