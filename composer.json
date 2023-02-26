@@ -1,5 +1,5 @@
 {
-    "name": "cvirando/seo-module",
+    "name": "cvirando/seo",
     "description": "Tunnel CRM seo module.",
     "type": "laravel-module",
     "license": "GPL-3.0-only",
