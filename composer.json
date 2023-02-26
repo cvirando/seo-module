@@ -1,7 +1,9 @@
 {
-    "name": "cvirando/seo",
-    "description": "",
+    "name": "cvirando/seo-module",
+    "description": "Tunnel CRM seo module.",
     "type": "laravel-module",
+    "license": "GPL-3.0-only",
+    "homepage": "https://github.com/cvirando/seo-module",
     "authors": [
         {
             "name": "CV. IRANDO",

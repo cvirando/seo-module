@@ -1,8 +1,15 @@
 {
     "name": "Seo",
     "alias": "seo",
-    "description": "",
-    "keywords": [],
+    "description": "Add seo to your project.",
+    "keywords": [
+        "cv irando",
+        "irando",
+        "seo",
+        "seos",
+        "module",
+        "modules"
+    ],
     "priority": 0,
     "providers": [
         "Modules\\Seo\\Providers\\SeoServiceProvider"
